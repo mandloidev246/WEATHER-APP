@@ -1,4 +1,11 @@
 # Weather App
+COMPANY: CODETECH IT SOLUTIONS
+NAME: DEV MANDLOI
+INTERN ID: CT04DN79
+DOMAIN: REACT.JS WEB DEVELOPMENT
+DURATION: 4 WEEKS
+MENTOR: NEELA SANTHOSH KUMAR
+
 
 Welcome to the Weather App repository! This project is a web application that provides real-time weather updates for any location. It utilizes HTML, CSS, and JavaScript to deliver a user-friendly interface and fetches data using the OpenWeatherMap API.
 
